@@ -1,0 +1,24 @@
+{
+  "name": "wallpaper-ific",
+  "version": "1.0.0",
+  "description": "Set a random wallpaper from the Verge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-smets/wallpaper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevin-smets/wallpaper/issues"
+  },
+  "homepage": "https://github.com/kevin-smets/wallpaper#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "request": "^2.88.0",
+    "wallpaper": "^4.4.1"
+  }
+}
